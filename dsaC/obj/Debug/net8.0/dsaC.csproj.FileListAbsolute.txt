@@ -1,0 +1,14 @@
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\bin\Debug\net8.0\dsaC.exe
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\bin\Debug\net8.0\dsaC.deps.json
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\bin\Debug\net8.0\dsaC.runtimeconfig.json
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\bin\Debug\net8.0\dsaC.dll
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\bin\Debug\net8.0\dsaC.pdb
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.AssemblyInfoInputs.cache
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.AssemblyInfo.cs
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.csproj.CoreCompileInputs.cache
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.dll
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\refint\dsaC.dll
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.pdb
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.genruntimeconfig.cache
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\ref\dsaC.dll
