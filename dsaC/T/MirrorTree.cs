@@ -11,20 +11,19 @@ namespace dsaC.T
 
         public bool Method(Node a,Node b)
         {
-            if (a == null || b == null) return true;
+            if (a == null && b == null) return true;
 
               
 
 
-            if(a.data==b.data)
+            if(a!=null &&b!=null && a.data==b.data )
             {
                 return Method(a.left,b.right)&&Method(a.right,b.left);
 
             }
-            else
-            {
+          
                 return false;
-            }
+            
 
 
 

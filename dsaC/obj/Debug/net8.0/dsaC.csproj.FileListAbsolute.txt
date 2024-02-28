@@ -12,3 +12,4 @@ C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\refint\dsaC.dll
 C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.pdb
 C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.genruntimeconfig.cache
 C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\ref\dsaC.dll
+C:\Users\ArijitPanda\source\repos\dsaC\dsaC\obj\Debug\net8.0\dsaC.sourcelink.json
